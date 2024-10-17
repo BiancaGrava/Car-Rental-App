@@ -1,0 +1,5 @@
+AB11MNH,BB,XX,AA
+BH11ABC,Hyundai,aa,manuala
+BH33ABC,Hyundai,Tucson,automata
+BH77ABC,Tesla,bb,automata
+BH88ABC,Rolls,cc,automata
